@@ -1,2 +1,2 @@
 # Hello-World
-My first GitHub Project!
+My first GitHub project!
